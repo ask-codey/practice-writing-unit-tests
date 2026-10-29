@@ -29,3 +29,7 @@ There are three bugs in all, one in each class.
 - Edges find bugs. For "at most 5 books", test the 4th, 5th and 6th. For "the first hour", test 59, 60 and 61 minutes.
 - Give each `Assert` a message that explains the requirement, so a failure tells you why.
 - Don't change a test to make it pass. If the test matches the requirement, the code is wrong.
+
+## Hand it in
+
+When it works, push your solution to a public repo of your own on GitHub, then paste that repo's address into **Submit your exercise** on the lesson page at [ask-codey.com](https://www.ask-codey.com). That's what completes the lesson. The lesson page shows the Git commands, step by step.
