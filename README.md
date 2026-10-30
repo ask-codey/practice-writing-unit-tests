@@ -1,15 +1,15 @@
-# Practice: Writing Unit Tests
+# Exercise: Writing Unit Tests
 
-Practice code for the lesson **Practice: Writing Unit Tests** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
+Exercise code for the lesson **Exercise: Writing Unit Tests** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
 
 This time the code is written and the tests are yours. Three small classes are finished, but each one has **one bug** hiding in it. Plan your tests from the requirements, write them with MSTest, and let them find the bugs. Then fix the code until every test you wrote passes.
 
 ## What's here
 
-- `TestingPractice/ParkingGarage.cs`: what a stay in a parking garage costs.
-- `TestingPractice/LibraryCard.cs`: the books a library card holds.
-- `TestingPractice/WordTools.cs`: counting vowels and spotting palindromes.
-- `TestingPractice.Tests`: one test class per class, each with one example test that passes.
+- `TestingExercise/ParkingGarage.cs`: what a stay in a parking garage costs.
+- `TestingExercise/LibraryCard.cs`: the books a library card holds.
+- `TestingExercise/WordTools.cs`: counting vowels and spotting palindromes.
+- `TestingExercise.Tests`: one test class per class, each with one example test that passes.
 
 The requirements are in the comments at the top of each class and above each method. Test what the requirements say, not what the code does.
 
